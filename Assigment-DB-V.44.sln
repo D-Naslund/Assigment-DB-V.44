@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assigment-DB-V.44", "Assigment-DB-V.44\Assigment-DB-V.44.csproj", "{A34F22DB-4E78-4445-8C1A-92F998B414C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34F22DB-4E78-4445-8C1A-92F998B414C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34F22DB-4E78-4445-8C1A-92F998B414C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34F22DB-4E78-4445-8C1A-92F998B414C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34F22DB-4E78-4445-8C1A-92F998B414C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A9C5475-6D70-4D97-A09B-828E31936BA1}
+	EndGlobalSection
+EndGlobal
