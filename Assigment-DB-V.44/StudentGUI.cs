@@ -151,11 +151,10 @@ namespace Assigment_DB_V._44
         {
             foreach (Student student in studentData.dbContext.Students)
             {
-                string studentId = $"Student id: {student.StudentId} ";
-                string studentFirstName = $"| Name: {student.FirstName} ";
-                string studentLastName = $" {student.LastName}";
-                string studentCity = $"| City: {student.City}";
-                Console.WriteLine(studentId.PadRight(15) + studentFirstName.PadRight(15) + student.LastName.PadRight(15) + studentCity);
+                Console.WriteLine($"Student id: {student.StudentId}".PadRight(15) +
+                    $"| Name: {student.FirstName}".PadRight(15) +
+                    $" {student.LastName}".PadRight(15) +
+                    $"| City: {student.City}".PadRight(15));
             }
         }
 
